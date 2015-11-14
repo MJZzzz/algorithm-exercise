@@ -94,7 +94,7 @@
 * [Binary Tree](binary_tree/README.md)
    * [Binary Tree Preorder Traversal](binary_tree/binary_tree_preorder_traversal.md)
    * [Binary Tree Inorder Traversal](binary_tree/binary_tree_inorder_traversal.md)
-   * [Binary Tree Postorder Traversal](binary_tree/binary_tree_postorder_traversal.md)
+   * [Binary Tree Postorder Traversal](binary_tree/binarytreepostorder_traversal__md.md)
    * [Binary Tree Level Order Traversal](binary_tree/binary_tree_level_order_traversal.md)
    * [Maximum Depth of Binary Tree](binary_tree/maximum_depth_of_binary_tree.md)
    * [Balanced Binary Tree](binary_tree/balanced_binary_tree.md)
